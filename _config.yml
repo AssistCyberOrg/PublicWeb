@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Assist Cyber Security
 description: A new cyber security company in the Hampshire area. More content will be added in the coming weeks.
+github:
+  is_project_page: false
